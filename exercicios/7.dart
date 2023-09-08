@@ -1,5 +1,5 @@
 //* 07) Informar um saldo e imprimir o saldo com reajuste de 1%
-import '../utils/inputNumero.dart';
+import '../utils/inputs.dart';
 
 void main() {
   print("Digite o valor do saldo:");

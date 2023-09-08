@@ -1,5 +1,5 @@
 //* 06) Ler um número inteiro e imprimir seu quadrado
-import '../utils/inputNumero.dart';
+import '../utils/inputs.dart';
 
 void main() {
   print("Digite um número:");

@@ -1,6 +1,6 @@
 //* Ler um ano de nascimento e ano atual. Imprimir a idade da pessoa
 
-import '../utils/inputNumero.dart';
+import '../utils/inputs.dart';
 
 void main() {
   print("Eu consigo dizer a sua idade, pra só preciso de duas coisas:");

@@ -1,5 +1,5 @@
 //* 04) Receber um valor qualquer do teclado e imprimir esse valor com reajuste de 10%
-import '../utils/inputNumero.dart';
+import '../utils/inputs.dart';
 
 void main() {
   print("Digite um valor:");

@@ -1,6 +1,6 @@
 //* Solicitar salário, prestação. Se prestação for maior que 20% do salário, imprimir: Empréstimo não pode ser concedido. Senão imprimir empréstimo pode ser concedido
 
-import '../utils/inputNumero.dart';
+import '../utils/inputs.dart';
 
 void main() {
   print(

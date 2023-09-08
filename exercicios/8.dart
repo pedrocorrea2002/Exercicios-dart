@@ -1,6 +1,6 @@
 //* 08) Informar um preço de um produto e calcular novo preço com desconto de 9%
 
-import '../utils/inputNumero.dart';
+import '../utils/inputs.dart';
 
 void main() {
   print("Digite um valor:");

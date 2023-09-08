@@ -1,5 +1,5 @@
 //* 03) Ler um número inteiro e imprimir seu sucessor e seu antecessor
-import '../utils/inputNumero.dart';
+import '../utils/inputs.dart';
 
 void main() {
   print("Digite um número:");

@@ -1,6 +1,6 @@
 import 'dart:io';
 import 'dart:mirrors';
-import './utils/inputNumero.dart';
+import 'utils/inputs.dart';
 
 void main() async {
   print("MENU");
@@ -52,10 +52,7 @@ void main() async {
         "16) Ler um ano de nascimento e ano atual. Imprimir a idade da pessoa.");
     print("");
     print(
-        "17) Criar um algoritmo que leia os limites inferior e superior de um intervalo e imprimir todos os números pares no intervalo aberto e seu");
-    print("");
-    print(
-        "18) Somatório. Suponha que os dados digitados são para um intervalo crescente");
+        "17) Criar um algoritmo que leia os limites inferior e superior de um intervalo e imprimir todos os números pares no intervalo aberto e seu 18) somatório. Suponha que os dados digitados são para um intervalo crescente");
     print("");
     print("19) Apresentar os quadrados dos números inteiros de 15 a 200.");
     print("");

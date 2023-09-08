@@ -1,7 +1,7 @@
 //* Ler 1 número. Se positivo, imprimir raiz quadrada senão o quadrado
 
 import 'dart:math';
-import '../utils/inputNumero.dart';
+import '../utils/inputs.dart';
 
 void main() {
   print("Escreva 1 número: ");

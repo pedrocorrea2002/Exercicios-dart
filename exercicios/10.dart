@@ -1,6 +1,6 @@
 //* 10) Ler uma temperatura em graus Celsius e transformá-la em graus Fahrenheit
 
-import '../utils/inputNumero.dart';
+import '../utils/inputs.dart';
 
 void main() {
   print("Informe uma temperatura em grau Celsius(°C):");

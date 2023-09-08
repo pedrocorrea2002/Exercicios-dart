@@ -1,6 +1,6 @@
 //* 11) Ler um número e se for maior que 20 imprimir a metade desse número
 
-import '../utils/inputNumero.dart';
+import '../utils/inputs.dart';
 
 void main() {
   print("Escreva um número:");

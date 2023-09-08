@@ -1,5 +1,5 @@
 //* 05) Informar três números inteiros e imprimir a média
-import '../utils/inputNumero.dart';
+import '../utils/inputs.dart';
 
 void main() {
   double num1 = 0, num2 = 0, num3 = 0, media;

@@ -1,6 +1,6 @@
 //* 09) Cálculo de um salário líquido de um professor. Serão fornecidos valor da hora aula, numero de aulas dadas e o % de desconto do INSS
 
-import '../utils/inputNumero.dart';
+import '../utils/inputs.dart';
 // import 'package:intl/intl.dart';
 
 void main() {
