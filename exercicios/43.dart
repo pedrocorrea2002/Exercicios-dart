@@ -1,4 +1,4 @@
-//* 20) Apresentar o total da soma obtida dos cem primeiros números inteiros
+//* 43) Apresentar o total da soma obtida dos cem primeiros números inteiros
 
 void main() {
   var numeros = [];

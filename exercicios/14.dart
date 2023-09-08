@@ -1,4 +1,4 @@
-//* Solicitar salário, prestação. Se prestação for maior que 20% do salário, imprimir: Empréstimo não pode ser concedido. Senão imprimir empréstimo pode ser concedido
+//* 14) Solicitar salário, prestação. Se prestação for maior que 20% do salário, imprimir: Empréstimo não pode ser concedido. Senão imprimir empréstimo pode ser concedido
 
 import '../utils/inputs.dart';
 

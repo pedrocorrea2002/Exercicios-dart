@@ -1,4 +1,4 @@
-//* 30) Ler um número do teclado e imprimir todos os números de 1 até o número lido. Imprimir o produto dos números
+//* 37) Ler um número do teclado e imprimir todos os números de 1 até o número lido. Imprimir o produto dos números
 
 import '../utils/inputs.dart';
 

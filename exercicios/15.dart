@@ -1,4 +1,4 @@
-//* Ler um número e imprimir: maior que 20, igual a 20 ou menor que 20
+//* 15) Ler um número e imprimir: maior que 20, igual a 20 ou menor que 20
 
 import '../utils/inputs.dart';
 
