@@ -3,20 +3,20 @@
 import '../utils/inputs.dart';
 
 void main() {
-  double numero = 0;
-  double maior = 0;
-  double menor = 0;
-  var lista = <double>[];
+  int numero = 0;
+  int maior = 0;
+  int menor = 0;
+  var lista = [];
 
   print(
       "Digite quantos números quiser, quando quiser parar digite um número negativo:");
 
-  numero = inputNumero(0);
+  numero = inputInteiro(0);
   maior = numero;
   menor = numero;
 
   while (numero >= 0) {
-    numero = inputNumero(0);
+    numero = inputInteiro(0);
 
     if (numero >= 0 && numero > maior) {
       maior = numero;

@@ -78,3 +78,23 @@ inputInteiroRange(numero, int min, int max) {
 
   return numero;
 }
+
+inputInteiro_diferenteDe(numero, List<int> diferenteDe) {
+  bool aceito = false;
+
+  while (!aceito) {
+    try {
+      numero = int.parse(stdin.readLineSync()!);
+
+      if (diferenteDe.contains(numero)) {
+        print("O número não pode ser ${diferenteDe.join(' nem ')}");
+      } else {
+        aceito = true;
+      }
+    } catch (e) {
+      print("Algo deu errado, digite novamente o número:");
+    }
+  }
+
+  return numero;
+}
