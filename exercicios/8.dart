@@ -1,4 +1,4 @@
-//* 8) Informar um preço de um produto e calcular novo preço com desconto de 9%
+//* 08) Informar um preço de um produto e calcular novo preço com desconto de 9%
 
 import '../utils/inputNumero.dart';
 

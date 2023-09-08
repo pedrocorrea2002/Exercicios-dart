@@ -1,4 +1,4 @@
-//* 7) Informar um saldo e imprimir o saldo com reajuste de 1%
+//* 07) Informar um saldo e imprimir o saldo com reajuste de 1%
 import '../utils/inputNumero.dart';
 
 void main() {
